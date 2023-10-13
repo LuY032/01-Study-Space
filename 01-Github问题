@@ -1,0 +1,6 @@
+# Github问题
+
+## 网络代理问题
+``` github
+git config --global http.proxy 127.0.0.1:7890
+```
