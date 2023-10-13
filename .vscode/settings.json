@@ -2,5 +2,7 @@
     "files.exclude": {
         "**/.crossnote": true,
         "**/.vscode": true
-    }
+    },
+    "markdown-preview-enhanced.previewTheme": "mystyle.css",
+    "markdown-preview-enhanced.codeBlockTheme": "codeblock.css"
 }
