@@ -5,7 +5,3 @@
 > A Novel Virtual Station-based Single-station Positioning Method in NLOS Environment
 >
 > NLOS环境下基于虚拟站点的单站定位新方法
-
-同步测试
-
-双向测试
