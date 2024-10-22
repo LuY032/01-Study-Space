@@ -34,9 +34,15 @@
 
 ## 3.2 Alist
 
+[官方文档](https://alist.nn.ci/zh/)
+
 ## 3.3 小雅Alist
 
+[博客教程](https://www.cpolar.com/blog/vmware-installs-feiniu-cloud-fnos-and-mounts-xiaoya-alist-to-implement-remote-access-over-the-internet)
+
 ## 3.4 Kikoeru
+
+[Docker 地址](https://hub.docker.com/r/number17/kikoeru)
 
 ## 3.5 Kmoga/LANraragi
 
